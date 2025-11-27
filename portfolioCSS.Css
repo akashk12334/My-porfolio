@@ -428,7 +428,7 @@
       padding-left:40% ;
       padding-bottom: 7px;
     }
-   @media (max-width: 768px) {
+    @media (max-width: 768px) {
       .sec {
         grid-template-columns: 1fr;
       }
