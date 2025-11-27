@@ -428,7 +428,7 @@
       padding-left:40% ;
       padding-bottom: 7px;
     }
-    @media (max-width: 768px) {
+   @media (max-width: 768px) {
       .sec {
         grid-template-columns: 1fr;
       }
@@ -438,4 +438,24 @@
       .contact-grid {
         grid-template-columns: 1fr;
       }
+      .project-grid
+      {
+        grid-template-columns: 1fr;
+      }
+      .skill-grid
+      {
+        grid-template-columns: 1fr;
+      }
+      .footer-text {
+    padding-left: 0;
+    text-align: center;          
+  }
+  .nav {
+    padding: 0 16px;
+  }
+
+  .option a {
+    padding: 4px 12px;
+    font-size: 0.85rem;
+  }
     }
