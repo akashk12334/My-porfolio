@@ -458,4 +458,8 @@
     padding: 4px 12px;
     font-size: 0.85rem;
   }
+.skill-card,
+  .project-card {
+    margin: 10px 0;            
+  }
     }
